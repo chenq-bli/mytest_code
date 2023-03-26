@@ -1,4 +1,3 @@
-//red apple
 //green apple
 //yellow apple
 //bad apple
@@ -7,4 +6,5 @@
 //magic apple
 //small apple
 //blue apple
+//orange
 
